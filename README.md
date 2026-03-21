@@ -7,7 +7,7 @@
 | | |
 |:---:|:---:|
 | **Languages** | **Stats** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puxxalwl&theme=onedark&show_icons=true&layout=compact" /> | <img src="https://github-readme-stats.vercel.app/api?username=puxxalwl&theme=onedark&show_icons=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puxxalwl&theme=codeSTACKr&show_icons=true&layout=compact" /> | <img src="https://github-readme-stats.vercel.app/api?username=puxxalwl&theme=codeSTACKr&show_icons=true" /> |
 
 </div>
 
