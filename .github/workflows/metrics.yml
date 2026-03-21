@@ -1,11 +1,15 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *" # Запуск каждый день в 00:00 по UTC
   workflow_dispatch:
-push: {branches: ["main"]}
+  push:
+    branches: ["main"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -13,7 +17,7 @@ jobs:
           user: puxxalwl
           template: classic
           base: header, community, repositories, metadata
-          config_timezone: Europe/Kyiv
+          config_timezone: UTC
           theme: codestackr
           plugin_languages: yes
           plugin_languages_ignored: html, css
