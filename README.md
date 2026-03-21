@@ -1,14 +1,18 @@
 ## Hi there 👋
 
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-| | |
-|:---:|:---:|
-| **Languages** | **Stats** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puxxalwl&theme=codeSTACKr&show_icons=true&layout=compact" /> | <img src="https://github-readme-stats.vercel.app/api?username=puxxalwl&theme=codeSTACKr&show_icons=true" /> |
-
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ## 📫 Connect
